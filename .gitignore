@@ -1,0 +1,21 @@
+# OS & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Gradle & Android Build Outputs
+.gradle/
+build/
+app/build/
+mobile/build/
+mobile/app/build/
+mobile/.gradle/
+mobile/local.properties
+
+# Web Node & Build Outputs
+web/node_modules/
+web/dist/
+web/.env*.local
+npm-debug.log*
