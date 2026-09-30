@@ -15,7 +15,8 @@ mobile/.gradle/
 mobile/local.properties
 
 # Web Node & Build Outputs
-web/node_modules/
-web/dist/
-web/.env*.local
+node_modules/
+dist/
+.env*.local
 npm-debug.log*
+
